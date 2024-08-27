@@ -45,3 +45,5 @@ While DSPY shows potential in consistency and scalability, it currently doesn’
 However, with proper tuning and prompt engineering, it could become a more viable option, especially for large-scale applications. 
 The key is to maintain consistency while improving data faithfulness and question relevancy.
 
+🙏 Special Thanks:
+A special thanks to AI Makerspace for their foundational contributions to this project. The code and concepts were largely inspired by their event, "DSPy: Advanced Prompt Engineering." Their insights and guidance have been invaluable in advancing this work (https://www.youtube.com/watch?v=6YtdtjQD1r0&t=1566s)
